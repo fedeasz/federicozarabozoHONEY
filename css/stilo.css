@@ -6,7 +6,8 @@ a{text decoration: none}
 .m-50{margin: 50px}
 .bgPrimario{background-color: skyblue;}
 .bgSecundario{background-color: lightblue;}
-
+.gradient{background: -webkit-linear-gradient(orange, pink);	
+}
 
 
 .gridIndex{
